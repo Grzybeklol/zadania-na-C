@@ -1,8 +1,10 @@
-#include <iostream>
+#include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
+#define iloscrund 10
 int main()
 {
-    const int iloscrund = 10;
+    
     int rundy[iloscrund][3];
     char wyniki[iloscrund];
     for(int i=0;i<iloscrund;i++){
