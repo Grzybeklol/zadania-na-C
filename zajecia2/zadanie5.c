@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <cstring>
+#include <string.h>
 
 #define len 5
 
